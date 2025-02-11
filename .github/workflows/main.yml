@@ -15,7 +15,7 @@ on:
 
 env:
   PROJECT_NAME: VsDavePlusReformed
-  REPO_PATH: matthewfro19191919/Dave-and-Bambi-Plus-Reformed-riolubfskins-Mobile
+  REPO_PATH: Dave-and-Bambi-Plus-Reformed-riolubfskins-Mobile-5
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
